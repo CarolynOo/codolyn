@@ -4,7 +4,7 @@ permalink: index.html
 ---
 
 # username
-codolyn
+CarolynOo
 
 ##Je m'appelle...
 Carolyn
@@ -22,7 +22,7 @@ J'ai principalement travaillé en tant que commerciale pour des marques de lunet
 ## Aujourd'hui
 
 Je suis actuellement en formation chez Simplon parce que j'ai toujours voulu apprendre à programmer sans oser me lancer.
-Je veux développer des compétences en front et backend mais aussi en gestion de projet.
+Je veux développer des compétences en front et backend mais aussi en gestion de projets en groupe.
 
 ## Demain
 
