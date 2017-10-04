@@ -1,5 +1,5 @@
 ---
-permalink:index.html
+permalink: index.html
 ---
 
 # username
@@ -26,5 +26,6 @@ Je veux développer des compétences en front et backend mais aussi en gestion d
 ## Demain
 
 Mon projet professionnel, c'est de rejoindre un grand groupe qui puisse me permettre de m'accompagner dans mon apprentissage et ainsi pouvoir monter en compétences.
+
 
 
